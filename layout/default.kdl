@@ -67,8 +67,5 @@ layout {
       }
     }
     children
-    pane size=4 {
-      plugin location="zellij:status-bar"
-    }
   }
 }
